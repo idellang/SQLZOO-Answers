@@ -1,3 +1,3 @@
 # SQLZOO-Answers
-My answers for SQLZOO quizzes
-https://sqlzoo.net/
+My answers for [SQLZOO quizzes](https://sqlzoo.net/)
+
